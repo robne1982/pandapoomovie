@@ -11,6 +11,6 @@
 
 &lt;div class="video-wrapper video-small"&gt;
  &lt;video class="video-shortcode" controls&gt;
- &lt;source src="https://robne1982.github.io/pandapoomovie/videos/trailer.mp4" type="video/mp4"&gt;
+ &lt;source src="videos/trailer.mp4" type="video/mp4"&gt;
  &lt;/video&gt;
 &lt;/div&gt;</description></item></channel></rss>
