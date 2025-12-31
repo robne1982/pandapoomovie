@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Panda Poo - The Movies</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Panda Poo - The Movies</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Panda Poo 7 </title>
+      <link>http://localhost:1313/posts/pandapoo7premier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pandapoo7premier/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ANNOUCEMENT : Panda Poo 7 World Premier - 31st Decemeber 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hunmanby Cinema has been selected to host the world premiere of Panda Poo 7&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;panda_poo7.jpg&#34; alt=&#34;Panda Poo 7&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;showing-times&#34;&gt;Showing Times&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;After dinner around 9pm&lt;/li&gt;&#xA;&lt;li&gt;By special request - talk to Eleanor, Isabelle, Georgie or Eveyln&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Panda Poo 7 Exclsuive Trailer</title>
+      <link>http://localhost:1313/posts/pandapoo7trailer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pandapoo7trailer/</guid>
+      <description>&lt;h2 id=&#34;panda-poo-7-trailer&#34;&gt;Panda Poo 7 Trailer&lt;/h2&gt;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;video-wrapper video-small&#34;&gt;&#xA;  &lt;video class=&#34;video-shortcode&#34; controls&gt;&#xA;    &lt;source src=&#34;http://localhost:1313/videos/trailer.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  &lt;/video&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

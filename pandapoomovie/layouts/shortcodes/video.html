@@ -1,0 +1,8 @@
+{{ $preload := .Get "preload" | default "metadata" }}
+
+
+<div class="video-wrapper {{ .Get "class" }}">
+  <video class="video-shortcode" controls>
+    <source src="{{ .Get "src" }}" type="{{ .Get "type" }}">
+  </video>
+</div>

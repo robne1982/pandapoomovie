@@ -1,0 +1,18 @@
+.hero {
+  background-size: cover;
+  background-position: center top;
+  min-height: 65vh;
+}
+
+body { outline: 10px solid red !important; }
+
+.video-wrapper {
+  max-width: 900px;   /* controls size */
+  margin: 2rem auto;
+}
+
+.video-shortcode {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
