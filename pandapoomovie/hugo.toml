@@ -1,4 +1,4 @@
-baseURL = 'https://robne1982.github.io/pandapoomovie/'
+baseURL = 'https://robne1982.github.io/'
 languageCode = 'en-us'
 title = 'Panda Poo - The Movies'
 theme = "ananke"
