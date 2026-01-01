@@ -1,6 +1,7 @@
 ---
 title: 'Panda Poo 7 '
 featured_image: "/images/banner.jpg"
+date: 2026-01-01T09:58:11Z
 ---
 
 **ANNOUCEMENT : Panda Poo 7 World Premier - 31st Decemeber 2025**
