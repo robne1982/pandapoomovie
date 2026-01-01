@@ -11,6 +11,8 @@ For years it was spoken of only in hushed tones, remembered imperfectly as *“t
 
 ---
 
+![Bamboo](bamboo.png)
+
 ## 🐼🍯 Back to the Beginning
 
 Before the schemes grew elaborate, before the romances grew complicated, there was a simple conflict: **bamboo vs honey**.
